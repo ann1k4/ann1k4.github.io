@@ -1,0 +1,5 @@
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\4.Modulo\bin\4.Modulo.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\4.Modulo\bin\4.Modulo.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\4.Modulo\obj\Debug\4.Modulo.csprojResolveAssemblyReference.cache
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\4.Modulo\obj\Debug\4.Modulo.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\4.Modulo\obj\Debug\4.Modulo.pdb

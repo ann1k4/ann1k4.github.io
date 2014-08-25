@@ -1,0 +1,11 @@
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\1.Presentacion.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\1.Presentacion.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\2.Logica.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\3.AccesoDatos.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\4.Modulo.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\2.Logica.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\3.AccesoDatos.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\bin\4.Modulo.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\obj\Release\1.Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\obj\Release\1.Presentacion.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\1.Presentacion\obj\Release\1.Presentacion.pdb

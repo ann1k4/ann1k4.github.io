@@ -1,0 +1,7 @@
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\bin\3.AccesoDatos.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\bin\3.AccesoDatos.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\bin\4.Modulo.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\bin\4.Modulo.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\obj\Release\3.AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\obj\Release\3.AccesoDatos.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\3.AccesoDatos\obj\Release\3.AccesoDatos.pdb

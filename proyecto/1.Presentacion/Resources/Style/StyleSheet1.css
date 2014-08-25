@@ -1,0 +1,134 @@
+﻿body {
+    background-color: aliceblue;
+}
+
+.imagen{
+    
+    right:-17px;
+    position:absolute;
+    top: 4px;
+    height: 160px;
+    width: 366px;
+}
+
+.title{
+    font-size:24px;
+    /*top:40px;*/
+    font-family:Arial;
+    font-style: oblique;
+    font-weight:bold;
+    left:308px;
+      position:absolute;
+    top: 33px;
+    height: 28px;
+}
+
+.round1a {
+
+    position:absolute;
+    left:6px;
+    top:185px;
+    height: 200px;
+    width: 192px;
+}
+
+.round1b {
+
+    position:absolute;
+    left:551px;
+    top:179px;
+    height: 245px;
+    width: 412px;
+}
+
+.winnersb {   
+    position:absolute; 
+        width: 183px;
+    top: 185px;
+    left: 362px;
+}
+
+.winnersa{   
+    position:absolute;
+    top: 188px;
+    left: 242px;
+    height: 176px;
+}
+
+.summary {
+
+    position:absolute;
+    top: 406px;
+    left: 490px;
+    height: 70px;
+    width: 122px;
+    right: 545px;
+}
+.winners {
+    position:absolute;
+    font-size:medium;
+    top: 144px;
+    left: 315px;
+    height: 19px;
+}
+
+.losers {
+    position:absolute;
+    top:246px;
+    left: -2px;
+    height: 407px;
+    width: 132px;
+}
+.losers2 {
+    position:absolute;
+    top: 284px;
+    left: 169px;
+    height: 272px;
+    width: 138px;
+}
+
+.round2a {
+    position:absolute;
+    top: 175px;
+    left: 41px;
+    width: 140px;
+}
+
+.round2b{
+    position:absolute;
+    top: 168px;
+    left: 502px;
+    height: 196px;
+    width: 169px;
+}
+
+.round2wa {
+    position:absolute;
+    top: 203px;
+    left: 224px;
+    height: 96px;
+    width: 109px;
+}
+
+.round2wb {    position:absolute;
+    top: 199px;
+    left: 367px;
+    height: 108px;
+    width: 114px;
+}
+
+.round2l {
+    position:absolute;
+    top: 389px;
+    left: 26px;
+    height: 119px;
+    width: 136px;
+}
+
+.round2l2 {
+    position:absolute;
+    top: 426px;
+    left: 201px;
+    height: 88px;
+    width: 162px;
+}

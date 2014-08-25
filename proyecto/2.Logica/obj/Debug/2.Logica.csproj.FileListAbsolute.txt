@@ -1,0 +1,9 @@
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\bin\2.Logica.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\bin\2.Logica.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\bin\3.AccesoDatos.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\bin\4.Modulo.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\bin\3.AccesoDatos.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\bin\4.Modulo.pdb
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\obj\Debug\2.Logica.csprojResolveAssemblyReference.cache
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\obj\Debug\2.Logica.dll
+C:\Users\emsoluciones\Documents\Visual Studio 2012\Projects\proyecto\2.Logica\obj\Debug\2.Logica.pdb
